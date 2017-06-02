@@ -1,5 +1,10 @@
 comandos = []
 
+<<<<<<< HEAD
+=======
+lista_nueva = []
+
+>>>>>>> 19569e6a058e586478e3f7a7257d249e9aa53166
 palabra = raw_input('Ingrese una palabra ')
 
 dic = {}
@@ -20,6 +25,7 @@ for i in range(len(comandos)):
 
 print('Lista creada: %s' %(comandos))
 
+<<<<<<< HEAD
 print('Diccionario creado: %s' %(dic))
 
 
@@ -41,3 +47,6 @@ print('Valor maximo %s ' %(max_value))
 print('Clave maxima %s ' %(max_key))
 
 print(apariciones)
+=======
+print('Diccionario creado: %s' %(dic))
+>>>>>>> 19569e6a058e586478e3f7a7257d249e9aa53166

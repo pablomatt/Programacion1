@@ -20,6 +20,7 @@ for i in range(len(comandos)):
 
 print('Lista creada: %s' %(comandos))
 
+<<<<<<< HEAD
 print('Diccionario creado: %s' %(dic))
 
 def func(q,r,j):
@@ -27,3 +28,6 @@ def func(q,r,j):
     return o 
 
 print(func(3,8,9))
+=======
+print('Diccionario creado: %s' %(dic))
+>>>>>>> 19569e6a058e586478e3f7a7257d249e9aa53166
