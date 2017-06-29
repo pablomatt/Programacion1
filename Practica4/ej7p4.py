@@ -8,7 +8,4 @@ def es_palindromo(palabra):
 
 es_palindromo(palabra)
 
-if(es_palindromo(palabra) == True):
-    print('La palabra %s es un palindromo ' %(palabra))
-else:
-    print('La palabra %s no es un palindromo ' %(palabra))
+print(es_palindromo(palabra))
